@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Zen Old Mincho", serif;
+}
+
+
+.frame-13 {
+    background: linear-gradient(98deg, #582c1d 6.35%, #513e26 100.41%);
+}
+
+.text-shadow {
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    font-style: normal;
+} */
